@@ -30,7 +30,7 @@ python password_power_test.py
 ```
 
 ### ⚖️ License
-This project is provided under the MIT License.
+This project is provided under the **MIT License**.
 
 
 
@@ -58,4 +58,4 @@ Sisteminizde Python 3 yüklü olması yeterlidir.
 python password_power_test.py
 ```
 ### ⚖️ Lisans
-Bu proje MIT lisansı altında sunulmaktadır.
+Bu proje **MIT lisansı** altında sunulmaktadır.
